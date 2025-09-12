@@ -5,7 +5,7 @@ body{
 header{
     background-color: green;
     color: white;
-    padding: 1px;
+    padding: 8px;
     text-align: center;
     font-family: Courier;
     font-weight: light;
@@ -13,7 +13,7 @@ header{
 footer{
     background-color: green;
     color: white;
-    padding: 1px;
+    padding: 8px;
     text-align: center;
     font-family: Arial;
 }
